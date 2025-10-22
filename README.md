@@ -7,7 +7,7 @@ My passion is turning raw data into actionable insights and building end-to-end 
 ## 🌐 Connect with Me
 
 * 📍 **Location**: Cairo, Egypt
-* 🌐 **Portfolio**: [https://eslam-shaban.github.io/EslamPorfolio.github.io/DataScience.html](https://eslam-shaban.github.io/EslamPorfolio.github.io/DataScience.html) 
+* 🌐 **Portfolio**: [https://eslam-shaban-17.github.io/eslam-shaban17-portfolio/](https://eslam-shaban-17.github.io/eslam-shaban17-portfolio/) 
 * 📧 **Email**: [eslamshaban170@gmail.com](mailto:eslamshaban170@gmail.com)
 * 🔗 **LinkedIn**: [https://www.linkedin.com/in/eslamshaban7/](https://www.linkedin.com/in/eslamshaban7/)
 * 📄 **Resume**: [Resume](https://drive.google.com/file/d/1geMxDpLmenhBcJFt-RT_5Y-12shmEMER/view?usp=drive_link)  
